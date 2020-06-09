@@ -1,3 +1,4 @@
+
 .navbar ul {
     list-style-type: none;
     margin: 0;
@@ -21,4 +22,14 @@
   /* Change the link color to #111 (black) on hover */
   .navbar li a:hover {
     background-color: #111;
+  }
+  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
   }
